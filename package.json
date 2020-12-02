@@ -2,13 +2,13 @@
   "name": "confusion",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
-  "main": "index.html",
+  "main": "aboutus.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "esha",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
@@ -17,5 +17,13 @@
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EshaKaushik/confusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EshaKaushik/confusion/issues"
+  },
+  "homepage": "https://github.com/EshaKaushik/confusion#readme"
 }
