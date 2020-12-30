@@ -15,7 +15,7 @@ $carousel-item-height: 300px;
     {
         color:white;
     }
-    .close
+    .close 
     {
         color:$background-pale;
     }
@@ -24,7 +24,6 @@ $carousel-item-height: 300px;
         background-color:$background-pale;
     }
 }
-
 .row-header{
     @include zero-margin(0px,0px);
 }
